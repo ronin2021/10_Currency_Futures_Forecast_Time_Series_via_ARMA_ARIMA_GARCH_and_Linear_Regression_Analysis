@@ -1,0 +1,2 @@
+# 10_Currency_Futures_Forecast_Time_Series_via_ARMA_ARIMA_GARCH_and_Linear_Regression_Analysis
+Forecasting Currency Futures via ARMA, ARIMA, GARCH and Linear Regression Analysis 
